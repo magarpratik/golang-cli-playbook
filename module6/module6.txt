@@ -1,0 +1,5 @@
+package module6 // import "."
+
+func FunctionForModule6GoDoc()
+    This is the function from module6 of the Go CLI Playbook course
+
